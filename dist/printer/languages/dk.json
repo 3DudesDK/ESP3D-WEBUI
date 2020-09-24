@@ -1,5 +1,5 @@
 {
-"lang" : "Français",
+"lang" : "Dansk",
 "S1" : "Chargement...",
 "S2" : "Connection websocket...",
 "S3" : "Apparement vous êtes connecté depuis une autre page, donc cette page est désormais déconnectée",
@@ -25,6 +25,4 @@
 "S23" : "Refresh information",
 "S24" : "Fermer",
 "T9" : "Utilisation sytème de fichiers"
-,"error:1":"Une instruction G-code consiste en une lettre et une valeur numérique. La lettre n'a pas été trouvée.",
-"error:2":"Valeur de l'instruction G-code ou valeur numérique invalide.",
 }

@@ -1,7 +1,7 @@
 {
  "settings": {
-  "language": "en",
-  "banner": true,
+  "language": "dk",
+  "banner": false,
   "autoload": true,
   "showterminalpanel": true,
   "openterminalonstart": false,
@@ -28,7 +28,7 @@
   "bedpreheat": "50;90;110",
   "showfanspanel": true,
   "showspeedpanel": true,
-  "showflowratepanel": true,
+  "showflowratepanel": false,
   "showextruderspanel": true,
   "chambermax": 140,
   "chamberpreheat": "50;90;110",
@@ -37,8 +37,8 @@
   "efeedrate": 400,
   "enumber": "6",
   "showsensorspanel": true,
-  "showmacros": true,
-  "expandmacrosbuttonsonstart": true,
-  "mobileview": false
+  "showmacros": false,
+  "expandmacrosbuttonsonstart": false,
+  "mobileview": true
  }
 }
